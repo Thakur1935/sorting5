@@ -7,7 +7,6 @@ package sort;
  *
  */
 public class bubblesort {
-
 	/**
 	 * @param args
 	 */
